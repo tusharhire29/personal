@@ -77,7 +77,7 @@ p {
 
 .section-title {
   
-margin-bottom: 80px;
+margin-bottom: 50px;
 }
 
 .section-title h2 {
@@ -1149,7 +1149,7 @@ blockquote {
   place-self: end;
   margin-top: calc(100vh + var(--offset));
 
-  /* visual styling */
+ 
   text-decoration: none;
   padding: 10px;
   font-family: sans-serif;
